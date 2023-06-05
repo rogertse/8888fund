@@ -7,15 +7,15 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/",
+		href: "https://twitter.com/chinaqq",
 		label: "Twitter",
-		handle: "@8888Fund",
+		handle: "@yat",
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:info@8888.Fund",
+		href: "mailto:1860641@qq.com",
 		label: "Email",
-		handle: "info@8888.Fund",
+		handle: "1860641@qq.com",
 	},
 	{
 		icon: <Github size={20} />,
