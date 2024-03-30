@@ -9,11 +9,11 @@ export const metadata: Metadata = {
 		default: "8848.club",
 		template: "%s | 8848.club",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "The world's top investors' club in the web3 and AI fields.",
 	openGraph: {
 		title: "8848.club",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
+			"The world's top investors' club in the web3 and AI fields.",
 		url: "https://8848.club",
 		siteName: "8848.club",
 		images: [
