@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "8888.Fund",
-		template: "%s | 8888.Fund",
+		default: "8848.club",
+		template: "%s | 8848.club",
 	},
 	description: "Software engineer at upstash.com and founder of planetfall.io",
 	openGraph: {
-		title: "8888.Fund",
+		title: "8848.club",
 		description:
 			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://8888.Fund",
-		siteName: "8888.Fund",
+		url: "https://8848.club",
+		siteName: "8848.club",
 		images: [
 			{
-				url: "https://8888.Fund/og.png",
+				url: "https://8848.club/og.png",
 				width: 1920,
 				height: 1080,
 			},
